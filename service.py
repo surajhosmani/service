@@ -8,8 +8,7 @@ if len(sys.argv) == 4:
     print(f"Service Date     : {service_date}")
     print(f"Service Amount   : ₹{service_amount}")
     print(f"Service Centre   : {service_center}")
-    print("-----------------------------------------")
-    print("Thank you for servicing your car with us!")
+    print("----Thank you----")
 
 else:
     print("Error: Missing Arguments!")
