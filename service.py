@@ -8,7 +8,7 @@ if len(sys.argv) == 4:
 
     print("-- CAR SERVICE INVOICE --")
     print(f"Service Date   : {service_date}")
-    print(f"Service Amount : ₹{service_amount}")
+    print(f"Service Amount : {service_amount}")
     print(f"Service Centre : {service_center}")
     print("---- Thank You ----")
 
