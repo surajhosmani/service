@@ -12,7 +12,7 @@ else:
 
 print("---- CAR SERVICE INVOICE ----")
 print(f"Service Date     : {service_date}")
-print(f"Service Amount   : ₹{service_amount}")
+print(f"Service Amount   : {service_amount}")
 print(f"Service Centre   : {service_center}")
 print("-----------------------------------------")
 print("Thank you for servicing your car with us!")
